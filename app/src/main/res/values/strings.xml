@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Basketball Score</string>
+    <string name="one_more">+1</string>
+    <string name="one_minus">-1</string>
+    <string name="local">LOCAL</string>
+    <string name="visitor">VISITOR</string>
+    <string name="two_more">+2</string>
+    <string name="reset_score">Put zero the score</string>
+    <string name="reset">RESET</string>
+    <string name="end">END</string>
+    <string name="next_screen">Next details screen</string>
+    <string name="basket_ball">basket_ball</string>
+    <string name="local_visitor">LOCAL - VISITOR</string>
+    <string name="dash">-</string>
+    <string name="impossible">IMPOSSIBLE</string>
+    <string name="zero_score">The score is ZERO</string>
+    <string name="zero_double">00</string>
+    <string name="tie">Tie</string>
+    <string name="visitors_won">Visitors team won</string>
+    <string name="local_won">Local team won</string>
+</resources>
